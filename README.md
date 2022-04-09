@@ -11,7 +11,7 @@
 - 🤝 I’m a team player.
 - 🤔 I love to understand how and why things work.
 - 👨‍🏫	I like to teach others what I know.
-- 😃 Soft-skills: Respect, Empathy, Self-discipline, Creative thinking, Problem-solving/Client oriented.
+- 😃 Soft-skills: Respect, Empathy, Self-discipline, Creative thinking, Problem-solving.
 - ⚡ Also... I love Ducks!
 
 ### Connect with me:

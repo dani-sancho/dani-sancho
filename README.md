@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Daniel Sancho
+### Hi there 👋, I'm Dani Sancho
 
 [![Website](https://img.shields.io/website?label=dani-sancho.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dani-sancho.github.io/)
 

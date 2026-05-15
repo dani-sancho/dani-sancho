@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="margin: 0">
-  [![Website](https://img.shields.io/website?label=dani-sancho.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dani-sancho.github.io/)
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdani-sancho.github.io%2F&style=for-the-badge&label=dani-sancho.github.io)
 </p>
 
 **About me**
@@ -24,12 +24,12 @@
 
 ### Connect with me:
 
-<div id="badges">
+<div id="badges" style="font-size: 0; display: flex; gap: 1rem;">
   <a href="https://www.linkedin.com/in/daniel-sancho-jara/" target="_blank">
-    <img src="https://img.shields.io/badge/in-daniel--sancho--jara-68A3F0?style=flat" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/in-daniel--sancho--jara-68A3F0?style=plastic" alt="LinkedIn"/>
   </a>
   <a href="https://dani-sancho.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=dani-sancho.github.io&color=68A3F0&style=flat&logo=google-chrome&logoColor=44cc11" alt="website"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=dani-sancho.github.io&color=68A3F0&style=plastic&logo=google-chrome&logoColor=44cc11" alt="Website"/>
   </a>
 </div>
 
@@ -38,8 +38,8 @@
 
 <br>
 <br>
-```html
-<p align="left">
+
+<p align="left" style="font-size: 0; display: flex; gap: 1rem;">
 
   <!-- Frontend Core -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">

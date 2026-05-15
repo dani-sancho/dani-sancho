@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Dani Sancho
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Text&size=48&duration=2000&pause=9999&color=38E9F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dani+Sancho)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Stack+Sans+Text&size=48&duration=2000&pause=9999&color=38E9F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Dani+Sancho" alt="Dani Sancho" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Text&size=48&duration=2000&pause=9999&color=38E9F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dani+Sancho" alt="Dani Sancho" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Jetbrains+mono&duration=2000&lines=Senior+frontend+developer;Angular+focused+frontend;Developer+Experience+(DX)+Advocate;Scalable+Frontend+Solutions;Clean+Code+%26+Frontend+Architecture;Technical+Frontend+Leadership+%26+mentorship;Component+Systems+%26+UI+Scalability" alt="Senior frontend developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&duration=2000&lines=Senior+frontend+developer;Angular+focused+frontend;Developer+Experience+(DX)+Advocate;Scalable+Frontend+Solutions;Clean+Code+%26+Frontend+Architecture;Technical+Frontend+Leadership+%26+mentorship;Component+Systems+%26+UI+Scalability" alt="Senior frontend developer" />
 </p>
 
 [![Website](https://img.shields.io/website?label=dani-sancho.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dani-sancho.github.io/)

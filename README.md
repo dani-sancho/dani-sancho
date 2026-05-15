@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dani Sancho
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Text&size=48&duration=2000&pause=9999&color=38E9F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dani+Sancho)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Stack+Sans+Text&size=48&duration=2000&pause=9999&color=38E9F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Dani+Sancho" alt="Dani Sancho" />
 </p>

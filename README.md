@@ -5,13 +5,14 @@
 
 **About me**
 
-- 🔭 I’m currently working on a company developing web applications.
-- 🌱 I am constantly learning new things.
-- 🎖️  I study everyday to land a job as a Front-End Developer at a great company.
-- 🤝 I’m a team player.
-- 🤔 I love to understand how and why things work.
-- 👨‍🏫	I like to teach others what I know.
-- 😃 Soft-skills: Respect, Empathy, Self-discipline, Creative thinking, Problem-solving.
+- 🚀 Frontend Developer specialized in Angular, scalable UI systems and developer experience (DX).
+- 🌱 Constantly learning and exploring new technologies, tools and frontend architectures.
+- 🧠 Passionate about understanding how and why things work under the hood.
+- 🧩 Focused on clean, maintainable and scalable code.
+- 🤝 Strong team player who enjoys collaboration and knowledge sharing.
+- 👨‍🏫 I enjoy mentoring and helping other developers grow technically.
+- 🎯 Interested in Design Systems, Component Libraries and Frontend Architecture.
+- 😃 Soft skills: Respect, Empathy, Self-discipline, Creative Thinking, Problem Solving.
 - :duck: Also... I love Ducks!
 
 ### Connect with me:

@@ -1,13 +1,13 @@
-<p align="center" style="margin: 0">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Text&size=48&duration=2000&pause=99999&color=38E9F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dani+Sancho" alt="Dani Sancho" />
-</p>
+</div>
 
-<p align="center" style="margin: 0">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&duration=3500&color=38E9F7&lines=Senior+frontend+developer;Angular+focused+frontend;Developer+Experience+(DX)+Advocate;Scalable+Frontend+Solutions;Clean+Code+%26+Frontend+Architecture;Technical+Frontend+Leadership+%26+mentorship;Component+Systems+%26+UI+Scalability" alt="Senior frontend developer" />
-</p>
+</div>
 
-<p align="center" style="margin: 0">
-  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdani-sancho.github.io%2F&style=for-the-badge&label=dani-sancho.github.io)
+<p align="center">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fdani-sancho.github.io%2F&style=for-the-badge&label=dani-sancho.github.io" alt="Website"/>
 </p>
 
 **About me**
@@ -24,12 +24,12 @@
 
 ### Connect with me:
 
-<div id="badges" style="font-size: 0; display: flex; gap: 1rem;">
+<div id="badges">
   <a href="https://www.linkedin.com/in/daniel-sancho-jara/" target="_blank">
     <img src="https://img.shields.io/badge/in-daniel--sancho--jara-68A3F0?style=plastic" alt="LinkedIn"/>
   </a>
   <a href="https://dani-sancho.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=dani-sancho.github.io&color=68A3F0&style=plastic&logo=google-chrome&logoColor=44cc11" alt="Website"/>
+    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=dani-sancho.github.io&color=68A3F0&style=plastic&logo=google-chrome&logoColor=44cc11" alt="Website contact"/>
   </a>
 </div>
 
@@ -39,7 +39,7 @@
 <br>
 <br>
 
-<p align="left" style="font-size: 0; display: flex; gap: 1rem;">
+<p align="left">
 
   <!-- Frontend Core -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
